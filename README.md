@@ -14,5 +14,8 @@ https://noahgift.github.io/cloud-data-analysis-at-scale/topics/effective-async-t
 https://gist.github.com/noahgift/5cac1b98407466c422c88be075f6c1a9
 https://noahgift.github.io/cloud-data-analysis-at-scale/topics/effective-async-technical-project-management
 https://circleci.com/blog/increase-reliability-in-data-science-and-machine-learning-projects-with-circleci/
+https://docs.google.com/document/d/1v8Va4tJwI0iQSSuSAh5dHjrNt7Mts6Xt5_Bq6yHyYFg/edit?usp=sharing
+https://edu.google.com/programs/credits/?modal_active=none
 
+[![Create Lambda Python](https://img.youtube.com/vi/AlRUeNFuObk/0.jpg)](https://www.youtube.com/watch?v=AlRUeNFuObk "Create Lambda Python")
 
