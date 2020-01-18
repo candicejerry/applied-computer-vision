@@ -12,5 +12,6 @@ https://colab.research.google.com/github/noahgift/functional_intro_to_python/blo
 https://github.com/noahgift/cloud-data-analysis-at-scale
 https://noahgift.github.io/cloud-data-analysis-at-scale/topics/effective-async-technical-discussions
 https://gist.github.com/noahgift/5cac1b98407466c422c88be075f6c1a9
+https://noahgift.github.io/cloud-data-analysis-at-scale/topics/effective-async-technical-project-management
 
 
